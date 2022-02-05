@@ -4,3 +4,4 @@
 
 # Features
 1. Shopping cart.
+2. Payment.
