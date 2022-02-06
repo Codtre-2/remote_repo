@@ -5,6 +5,7 @@
 # Features
 1. Shopping cart.
 2. Payment.
+2. ThumbDown.
 
 # Hotfix
 1. Fix unable to continue to 'payment' page.
